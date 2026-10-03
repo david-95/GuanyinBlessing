@@ -52,7 +52,7 @@
 
 如果您有任何问题或建议，欢迎通过 GitHub 提交 Issue：
 
-**https://github.com/pi-tiger/GuanyinBlessing/issues**
+**https://github.com/david-95/GuanyinBlessing/issues**
 
 ---
 
@@ -102,4 +102,4 @@ If this policy changes, it will be updated on this page with a new "Last updated
 
 If you have any questions or suggestions, please open an Issue on GitHub:
 
-**https://github.com/pi-tiger/GuanyinBlessing/issues**
+**https://github.com/david-95/GuanyinBlessing/issues**
